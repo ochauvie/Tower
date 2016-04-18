@@ -473,4 +473,24 @@
     <string name="label_type_plane">Plane</string>
     <string name="label_type_rover">Rover</string>
     <string name="label_type_unknown">Unknown</string>
+
+    <!-- Speak -->
+    <string name="speak_armed">Armé</string>
+    <string name="speak_disarmed">Désarmé</string>
+    <string name="speak_battery_notification">Batterie à %d%%</string>
+    <string name="speak_connected">Connecté</string>
+    <string name="speak_disconected">déconnecté</string>
+    <string name="speak_mission_sent">Waypoints saved to Drone</string>
+    <string name="speak_mission_received">Waypoints received</string>
+    <string name="speak_heartbeat_first">Connecté</string>
+    <string name="speak_heartbeat_timeout">Data link perdue, vérifier la connexion.</string>
+    <string name="speak_heartbeat_restored">Data link restorée</string>
+    <string name="speak_mission_item_updated">"Going for waypoint %d"</string>
+    <string name="speak_follow_start">Following</string>
+    <string name="speak_warning_signal_weak">Attention, perte du signal</string>
+    <string name="speak_warning_no_gps">Erreur, gps pas encore verouillé</string>
+    <string name="speak_warning_vehicle_home_updated">Home du véhicule modifié</string>
+    <string name="speak_warning_max_alt_exceed">Attention, altitude max dépassée!</string>
+
+
 </resources>
