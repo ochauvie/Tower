@@ -492,5 +492,7 @@
     <string name="speak_warning_vehicle_home_updated">Home du véhicule modifié</string>
     <string name="speak_warning_max_alt_exceed">Attention, altitude max dépassée!</string>
 
+    <!-- Periodic Status Preferences -->
+    <string name="periodic_status_altitude">"altitude, %d mètres. "</string>
 
 </resources>
